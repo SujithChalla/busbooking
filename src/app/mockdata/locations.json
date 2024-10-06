@@ -1,0 +1,42 @@
+[
+    {
+      "locationId": 2,
+      "locationName": "Pune",
+      "code": "pne"
+    },
+    {
+      "locationId": 4,
+      "locationName": "mumbai",
+      "code": "mum"
+    },
+    {
+      "locationId": 8,
+      "locationName": "Nagpur",
+      "code": "ngp"
+    },
+    {
+      "locationId": 9,
+      "locationName": "Bangalore",
+      "code": "bng"
+    },
+    {
+      "locationId": 10,
+      "locationName": "Hyderabad",
+      "code": "hyd"
+    },
+    {
+      "locationId": 11,
+      "locationName": "Kolkata",
+      "code": "kol"
+    },
+    {
+      "locationId": 12,
+      "locationName": "chennai",
+      "code": "string"
+    },
+    {
+      "locationId": 13,
+      "locationName": "Arakkonam",
+      "code": "string"
+    }
+  ]
